@@ -1,0 +1,48 @@
+
+  <?xml version="1.0">
+  <Dependency Table>
+    <File Name>
+      C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\Test\Test\A.cpp
+    </File Name>
+    <Dependencies>
+      A.h
+      B.h
+    </Dependencies>
+    <File Name>
+      C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\Test\Test\A.h
+    </File Name>
+    <Dependencies>
+      A.h
+      B.h
+    </Dependencies>
+    <File Name>
+      C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\Test\Test\B.cpp
+    </File Name>
+    <Dependencies>
+      A.h
+      B.h
+    </Dependencies>
+    <File Name>
+      C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\Test\Test\B.h
+    </File Name>
+    <Dependencies>
+      A.h
+      B.h
+    </Dependencies>
+    <File Name>
+      C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\Test\Test\C.cpp
+    </File Name>
+    <Dependencies>
+      A.h
+      B.h
+      C.h
+    </Dependencies>
+    <File Name>
+      C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\Test\Test\C.h
+    </File Name>
+    <Dependencies>
+      A.h
+      B.h
+      C.h
+    </Dependencies>
+  </Dependency Table>

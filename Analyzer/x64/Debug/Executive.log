@@ -1,0 +1,21 @@
+﻿  Executive.cpp
+  DepAnal.cpp
+  XmlElement.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  NoSqlDb.cpp
+  Logger.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  DependencyAnalysis.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  Executive.vcxproj -> C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\x64\Debug\CodeAnalyzer.exe
+  Executive.vcxproj -> C:\Users\devas\OneDrive\Documents\Visual Studio 2015\Projects\Project2_244997526\CodeAnalyzerEx\x64\Debug\CodeAnalyzer.pdb (Full PDB)
